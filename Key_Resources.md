@@ -1,1 +1,1 @@
-# Key Resources
+# منابع کلیدی

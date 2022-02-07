@@ -1,4 +1,4 @@
-# Cost Structure & Revenue Stream
+# ساختار هزینه و مدل درآمدی
 
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
