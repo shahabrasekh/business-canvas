@@ -11,8 +11,8 @@
 ## کانوس کسب و کار
 در این قسمت مختصری از هر جز کسب و کار بنویسید
 
-<div dir="trl">
-<table>
+
+<table dir="rtl">
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">شرکای کلیدی</a></b>
@@ -79,7 +79,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 ## بنیانگذاران
 <!-- Team members -->
