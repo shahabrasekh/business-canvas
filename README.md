@@ -43,8 +43,8 @@
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">بخش های مختلف مشتریان</a></b>
-      <p>For whom are we creating value?<br>
-      Who are our most important customers?</p>
+      <p>برای چه کسانی ارزش ایجاد می کنید؟<br>
+      مهمترین مشتریان شما چه کسانی هستند؟</p>
     </td>
   </tr>
   <tr>
