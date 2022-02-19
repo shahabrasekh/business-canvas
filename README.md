@@ -3,7 +3,7 @@
 این فایل به صورت Markdown طراحی شده است تا به سادگی قابل استفاده باشد
 
 ## مختصری از کسب و کار
-خلاصه ای از فعالیت کسب و کار 
+با هدف 
 
 ## وبسایت کسب و کار
 لینک را در این قسمت قرار دهید
@@ -16,74 +16,70 @@
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">شرکای کلیدی</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      <p>ناشران کتاب های کودک<br>
+      نهادهای دولتی فعال در حوزه کتاب<br>
+      محموعه های فرهنگی و آموزشی (مدرسه ها، خانه های فرهنگ و ...)</p>
     </td>
     <td>
       <b><a href="Key_Activities.md">فعالیت های کلیدی</a></b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-      Customer Relationships?<br>
-      Revenue Streams?</p>
+      <p>جذب تسهیل گر شایسته و کودکان علاقه مند<br>
+      ساخت، توسعه و نگهداری پلتفرم ارائه خدمات بازارگاه<br>
+      </p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">ارزش های پیشنهادی به مشتری</a></b>
-      <p>What value do we deliver to the customer?<br>
-      Which one of our customer's problems are we helping to solve?<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      <p>خلق ارزش برای کودکان در زمان فراغت با ترویج کتاب خوانی در نشست های آنلاین توسط تسهیل گران <br>
+      <br>
+      </p>
       <br><br><br><br><br>
     </td>
     <td>
       <b><a href="Customer_Relationships.md">نحوه تعامل با متشریان</a></b>
-      <p>What type of relationship does each of our Customer Segments expects us to establish and maintain with them?<br>
-      Which ones have we established?</p>
+      <p>ارائه کارگاه ها و نشست های آنلاین و استفاده از تسهیل گران با انگیزه<br>
+      تعامل اتوماسیون ثبت نام، زمانبندی شرکت در کارگاه و ... <br>
+      ارتباط گروهی از طریق فروم های اجتماعی مربتط با موضوع کارگاه
+      </p>
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">بخش های مختلف مشتریان</a></b>
-      <p>برای چه کسانی ارزش ایجاد می کنید؟<br>
-      مهمترین مشتریان شما چه کسانی هستند؟</p>
+      <p>کودکان و نوجوانانی با دسترسی به اینترنت، موبایل هوشمند یا لپتاپ (قابلیت شرکت در جلسات آنلاین را داشته باشند)<br>
+      تسهیل گران فعال در حوزه کودک و نوجوان</p>
     </td>
   </tr>
   <tr>
     <td>
       <b><a href="Key_Resources.md">منابع کلیدی</a></b>
-      <p>What Key Resources do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-        Customer Relationships?<br>
-        Revenue Streams?</p>
+      <p>تسهیل گران کتابخانه کوچک مهربانی<br>
+      تیم با انگیزه و متحد<br>
+        دسترسی به تیم توسعه دهنده و سرمایه گذار<br>
+      </p>
     </td>
     <td>
       <b><a href="Channels.md">کانالهای ارتباط با مشتریان</a></b>
-      <p>Through which Channels do our Customer Segments want to be reached?<br>
-      How are our Channels integrated?
-      How are we integrated with customer routines?</p>
+      <p>پلتفرم که به صورت بازارگاه (Marketplace) فعالیت می کند<br>
+      فروم برای تعامل و به اشتراک گذاری نظرات و تعامل میان اعضا<br>
+      </p>
     </td>
   </tr>
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">ساختار هزینه ای</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+      <p>ساخت، توسعه و نگهداری پلتفرم<br>
+      تبلیغات<br>
+      تولید محتوا<br>
+      منابع انسانی برای مدیریت کارگاه ها و کارهای اداری</p>
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">مدل درآمدی</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+      <p>حق عضویت مربیان و کودکان<br>
+      فروش حق معنوی محصولات تولید شده<br>
+      همکاری با ناشران</p>
     </td>
   </tr>
 </table>
 
 ## بنیانگذاران
-<!-- Team members -->
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
+* محسن کچویی
+*‌ فرشته کچویی
+* سحر خلیلیان
+* شهاب راسخ
